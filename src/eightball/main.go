@@ -3,5 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	answers := []string{}
+	answers := []string{
+		"no",
+	}
 }
